@@ -25,5 +25,4 @@ Recognizing...
 Transcription: students welcome to python programming language
 
 
-screenshot:
-![Output Screenshot](output.png)
+
