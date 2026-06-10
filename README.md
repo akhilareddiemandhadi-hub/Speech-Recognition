@@ -12,5 +12,8 @@ Convert .wav audio files to text using Python + Google Speech Recognition API.
 ```bash
 pip install SpeechRecognition pydub
 
-##output
-students welcome to python programming language
+## output
+
+'''bash
+python speech_recog.py sample.wav
+'''
