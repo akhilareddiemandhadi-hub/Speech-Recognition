@@ -1,10 +1,14 @@
-# Python Speech to Text
-Convert .wav audio files to text using Google Speech API.
+# Python Speech Recognition Project
 
-## Setup
-pip install -r requirements.txt
+Convert `.wav` audio files to text using Python + Google Speech API.
 
-## Run 
-python speech_recog.py
-Make sure sample.wav is in the same folder
-Use any royalty-free .wav file for testing
+## Features
+- Converts speech from `.wav` to text
+- Uses Google Speech Recognition API 
+- Includes sample audio `sample.wav` for testing
+- Python 3.12 compatible
+
+## Requirements
+Install these packages first:
+```bash
+pip install SpeechRecognition pydub
