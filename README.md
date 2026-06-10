@@ -8,16 +8,29 @@ Convert .wav audio files to text using Python + Google Speech Recognition API.
 - Includes sample audio `sample.wav` for testing
 - Python 3.12 compatible
 
+I see the problem - everything after `pip install` is inside the grey code box. That's why `## Sample Output` looks like plain text.
+
+## Requirements
+```bash
+
 pip install SpeechRecognition pydub
 ## Sample Output
 
 *Command:*
+
 python speech_recog.py sample.wav
+
+
 *Output:*
+
 Recognizing...
 Transcription: students welcome to python programming language
+
+
 *Screenshot:*
 ![Output Screenshot](output.png)
+
+
 
 
 
