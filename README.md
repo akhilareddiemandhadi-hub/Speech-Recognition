@@ -14,11 +14,16 @@ pip install SpeechRecognition pydub
 
 ## Sample Output
 
-**Command:**
+Command:
 ```bash
 python speech_recog.py sample.wav
 '''
 
+**Output:**
 
 Recognizing...
 Transcription: students welcome to python programming language
+
+
+screenshot:
+![Output Screenshot](output.png)
